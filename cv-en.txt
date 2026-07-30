@@ -1,6 +1,6 @@
 Souleymane Harouna Mato
 Java / Spring Developer — Lead Dev
-Longueuil, QC (Canada) | +1 514 209-0509 | souleymato@gmail.com | github.com/souleymatoo | souleymatoo.github.io/curriculum-page
+Longueuil, QC (Canada) | +1 514 209-0509 | souleymato@gmail.com | linkedin.com/in/souleymane-mato | github.com/souleymatoo | souleymatoo.github.io/curriculum-page
 
 PROFILE
 -------
@@ -76,7 +76,7 @@ EDUCATION
 
 CERTIFICATIONS
 --------------
-- AWS Certified Developer – Associate
+- AWS Certified Developer – Associate · 2025
 - LPIC-2 — Linux Professional Institute · 2014
 - LPIC-1 — Linux Professional Institute · 2013
 - Certified Fiber Optic Technician (CFOT) — FOA · 2012
