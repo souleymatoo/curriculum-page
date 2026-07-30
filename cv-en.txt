@@ -1,0 +1,87 @@
+Souleymane Harouna Mato
+Java / Spring Developer — Lead Dev
+Longueuil, QC (Canada) | +1 514 209-0509 | souleymato@gmail.com | github.com/souleymatoo | souleymatoo.github.io/curriculum-page
+
+PROFILE
+-------
+Telecom and computer engineer with 10+ years building Java/Spring systems end to end, from design to production. Designs secure APIs and microservices, CQRS and event-driven architectures for banking (Banque Nationale, Desjardins) and international projects (Atos, People Input). Comfortable wearing both the developer and the ops hat, on AWS and Azure alike.
+
+TECHNICAL SKILLS
+----------------
+Languages: Java, SQL, Python
+Backend: Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
+Architecture: Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
+Cloud & containers: AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
+Data & messaging: Kafka, RabbitMQ, PostgreSQL
+Quality & security: JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
+Practices: Trunk-based development, CI/CD, GitHub Actions, Scrum, GitHub Copilot
+Front-end: Angular, EmberJS
+- Languages : Java, SQL, Python
+- Backend : Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
+- Architecture : Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
+- Cloud & containers : AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
+- Data & messaging : Kafka, RabbitMQ, PostgreSQL
+- Quality & security : JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
+- Practices : Trunk-based development, CI/CD, GitHub Actions, Scrum, GitHub Copilot
+- Front-end : Angular, EmberJS
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+
+Java Developer & Lead Dev - Banque Nationale du Canada
+10/2021 – present | Montreal, QC
+Cards API domain — end-to-end management of the debit and credit card lifecycle.
+- Develops and maintains the APIs driving the debit and credit card lifecycle, at the core of the bank's payment platform.
+- Secures the APIs and their deployment environments through Snyk vulnerability scanning and DevSecOps practices.
+- Drives the testing strategy and trunk-based development that shortened the delivery cycle.
+- Removes technical blockers upfront so the team can stay focused on shipping.
+Environment: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, Snyk, GitHub Actions, GitHub Copilot
+
+Java Developer - Desjardins
+12/2019 – 10/2021 | Quebec City, QC
+Next programme — insurance platform redesign: unifying the group's separate insurance systems into one, to simplify quoting and policy subscription.
+- Built the services of the new insurance platform on a CQRS architecture.
+- Cut the solution's start-up time by applying optimisations drawn from previous projects.
+- Covered the codebase with automated tests (JUnit, TestNG) wired into the team's Git workflow.
+Environment: Java, Spring, Genesis Framework, CQRS, Azure, Kubernetes, Docker, JUnit, TestNG
+
+Java Developer - Atos
+06/2018 – 08/2019 | Dakar, Senegal
+Cykléo — bike sharing tracking and rental platform (01/2019 – 08/2019)
+Cigarette pack traceability platform (06/2018 – 01/2019) — compliance with EU directive 2014/40/EU.
+- Developed and maintained the web application running in more than 5 major French cities for over 10 million active users.
+- Doubled as ops on the same project: diagnosed and fixed incidents across the QA, staging and production environments.
+- Joined the architecture team and drove the choice of an event-driven microservices architecture, based on prior cloud experience.
+- Delivered the proof of concept, then set up the QA, staging and production environments.
+Environment: Java, Spring (MVC, Batch, Security, Cloud), EmberJS, Angular, RabbitMQ, OpenShift, Keycloak, Cucumber, JUnit
+
+Java Developer - People Input
+09/2015 – 05/2018 | Dakar, Senegal
+Sales platform digitalisation — LafargeHolcim Ivory Coast (09/2017 – 05/2018)
+Subscription management platform (12/2016 – 09/2017)
+Brokerage management system — Financial Capital (09/2015 – 08/2016)
+- Designed and built the web application aggregating several source systems so customers could order cement and track their stock.
+- Built the single entry point to the services of People Input and its partners, from subscription to billing.
+- Delivered the application managing stock market orders, UCITS and bonds used by brokers to follow client portfolios.
+- Covered all three projects with unit and integration tests, technical documentation and application support.
+Environment: Java, Spring (MVC, Batch, Security, Cloud, Thymeleaf), Angular, RabbitMQ, PostgreSQL, Docker, Rancher, JUnit
+
+EDUCATION
+---------
+- MSc — Data Transmission and Information Security, Université Cheikh Anta Diop, Senegal · 2017
+- Engineering degree in Telecom & Computer Engineering, École Supérieure Multinationale des Télécommunications, Senegal · 2013
+- Advanced technician diploma in Telecom & Computer Engineering, École Supérieure Multinationale des Télécommunications, Senegal · 2011
+
+CERTIFICATIONS
+--------------
+- AWS Certified Developer – Associate
+- LPIC-2 — Linux Professional Institute · 2014
+- LPIC-1 — Linux Professional Institute · 2013
+- Certified Fiber Optic Technician (CFOT) — FOA · 2012
+
+LANGUAGES
+---------
+French: fluent
+English: professional working proficiency
+- French : fluent
+- English : professional working proficiency
