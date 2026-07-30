@@ -3,7 +3,10 @@
    use to pre-screen applications.
 
    Every colour goes through a variable so the website can re-theme the exact
-   same markup (dark mode) without overriding rules one by one. */
+   same markup (dark mode) without overriding rules one by one.
+
+   Spacing and skill chips live here so the PDF matches the GitHub Pages look —
+   site.css only scales type for the screen. Tuned to stay within two pages. */
 
 :root {
   --accent: #1f4e79;
@@ -14,6 +17,7 @@
   --ink-muted: #5c626a;
   --ink-faint: #a8aeb6;
   --rule: #d7dbe0;
+  --chip-bg: #e8edf3;
 }
 
 * { box-sizing: border-box; }
@@ -27,8 +31,8 @@ body.print {
 
 .cv {
   font-family: Inter, "Helvetica Neue", Arial, "Liberation Sans", sans-serif;
-  font-size: 9.7pt;
-  line-height: 1.42;
+  font-size: 9.4pt;
+  line-height: 1.46;
   color: var(--ink);
   max-width: 100%;
 }
@@ -40,14 +44,14 @@ body.print {
 /* ---------- Header ---------- */
 
 .cv-header {
-  border-bottom: 1.6pt solid var(--accent);
-  padding-bottom: 6pt;
-  margin-bottom: 11pt;
+  border-bottom: 1.7pt solid var(--accent);
+  padding-bottom: 8pt;
+  margin-bottom: 12pt;
 }
 
 .cv-name {
   margin: 0;
-  font-size: 21pt;
+  font-size: 19.5pt;
   font-weight: 700;
   letter-spacing: -0.4pt;
   color: var(--accent);
@@ -55,8 +59,8 @@ body.print {
 }
 
 .cv-headline {
-  margin: 2pt 0 6pt;
-  font-size: 10.5pt;
+  margin: 2.5pt 0 7pt;
+  font-size: 10.2pt;
   font-weight: 500;
   color: var(--ink-soft);
 }
@@ -64,8 +68,9 @@ body.print {
 .cv-contact {
   display: flex;
   flex-wrap: wrap;
-  font-size: 8.9pt;
+  font-size: 8.6pt;
   color: var(--ink-soft);
+  row-gap: 1.5pt;
 }
 
 .cv-contact li + li::before {
@@ -78,13 +83,13 @@ body.print {
 
 /* ---------- Sections ---------- */
 
-.cv-section { margin-bottom: 10pt; }
+.cv-section { margin-bottom: 12pt; }
 
 .cv-section h2 {
-  margin: 0 0 6pt;
-  padding-bottom: 2pt;
-  border-bottom: 0.6pt solid var(--rule);
-  font-size: 9.5pt;
+  margin: 0 0 7pt;
+  padding-bottom: 3pt;
+  border-bottom: 0.7pt solid var(--rule);
+  font-size: 9.2pt;
   font-weight: 700;
   letter-spacing: 0.9pt;
   text-transform: uppercase;
@@ -92,14 +97,16 @@ body.print {
 }
 
 .cv-section--summary p {
-  font-size: 9.9pt;
+  font-size: 9.55pt;
+  line-height: 1.48;
   color: var(--ink);
+  margin-bottom: 0;
 }
 
 /* ---------- Experience entries ---------- */
 
 .entry {
-  margin-bottom: 8pt;
+  margin-bottom: 10.5pt;
   break-inside: avoid;
   page-break-inside: avoid;
 }
@@ -111,11 +118,12 @@ body.print {
   justify-content: space-between;
   align-items: baseline;
   gap: 8pt;
+  margin-bottom: 2.5pt;
 }
 
 .entry-title {
   margin: 0;
-  font-size: 10.2pt;
+  font-size: 9.9pt;
   font-weight: 600;
   color: var(--ink-strong);
 }
@@ -125,7 +133,7 @@ body.print {
 
 .entry-meta {
   margin: 0;
-  font-size: 8.7pt;
+  font-size: 8.4pt;
   font-weight: 500;
   color: var(--ink-muted);
   white-space: nowrap;
@@ -133,13 +141,13 @@ body.print {
 }
 
 .entry-note {
-  margin: 1.5pt 0 3pt;
+  margin: 1.5pt 0 3.5pt;
   color: var(--ink-body);
 }
 
-/* Project sub-heading inside a longer assignment. */
 .entry-note--lead {
-  margin-top: 4pt;
+  margin-top: 5.5pt;
+  margin-bottom: 2.5pt;
   color: var(--ink-strong);
 }
 
@@ -147,19 +155,23 @@ body.print {
 
 /* ---------- Bullets ---------- */
 
+.bullets {
+  margin: 1.5pt 0 3pt;
+}
+
 .bullets li {
   position: relative;
   padding-left: 10pt;
-  margin-bottom: 2.2pt;
+  margin-bottom: 2.8pt;
 }
 
 .bullets li::before {
   content: "";
   position: absolute;
   left: 1.5pt;
-  top: 4.6pt;
-  width: 2.6pt;
-  height: 2.6pt;
+  top: 4.8pt;
+  width: 2.5pt;
+  height: 2.5pt;
   border-radius: 50%;
   background: var(--accent);
 }
@@ -167,42 +179,90 @@ body.print {
 .bullets .nested { margin-top: 2pt; }
 .bullets .nested li::before { background: var(--ink-faint); }
 
-/* ---------- Skill groups and tag rows ---------- */
+/* ---------- Skill groups and tag chips ---------- */
 
-.groups { margin: 0; }
+.groups { margin: 0.5pt 0 0; }
 
 .group {
   display: flex;
-  gap: 8pt;
-  margin-bottom: 3pt;
+  gap: 7pt;
+  margin-bottom: 4pt;
+  align-items: flex-start;
   break-inside: avoid;
 }
 
+.group:last-child { margin-bottom: 0; }
+
 .group dt {
-  flex: 0 0 26%;
+  flex: 0 0 23%;
+  padding-top: 1.2pt;
   font-weight: 600;
   color: var(--ink-strong);
 }
 
-.group dd { margin: 0; color: var(--ink-body); }
-
-.stack {
-  margin: 3pt 0 0;
-  font-size: 8.8pt;
-  color: var(--ink-muted);
+.group dd {
+  margin: 0;
+  flex: 1;
+  color: var(--ink-body);
+  line-height: 1.5;
 }
 
-.stack-label { font-weight: 600; color: var(--ink-soft); }
+/* Separators are only for the plain-text export; chips replace them visually. */
+.tag-sep { display: none; }
+
+.tag {
+  display: inline-block;
+  background: var(--chip-bg);
+  border-radius: 2.5pt;
+  padding: 1pt 4.5pt;
+  margin: 0 2.5pt 2.5pt 0;
+  font-size: 7.9pt;
+  line-height: 1.3;
+  color: var(--ink);
+  vertical-align: baseline;
+}
+
+.stack {
+  margin: 4.5pt 0 0;
+  font-size: 8.3pt;
+  color: var(--ink-muted);
+  line-height: 1.5;
+}
+
+.stack-label {
+  display: inline-block;
+  font-weight: 600;
+  color: var(--ink-soft);
+  margin-right: 2pt;
+  margin-bottom: 2.5pt;
+}
 
 code {
   font-family: "JetBrains Mono", "Liberation Mono", monospace;
   font-size: 0.92em;
 }
 
+/* Education / certifications / languages sit lower on the page: keep them
+   a touch denser so the breathing room goes to the experience section. */
+.cv-section--education,
+.cv-section--certifications,
+.cv-section--languages {
+  margin-bottom: 10pt;
+}
+
+.cv-section--education .bullets li,
+.cv-section--certifications .bullets li {
+  margin-bottom: 2.2pt;
+}
+
+.cv-section--languages .group {
+  margin-bottom: 3pt;
+}
+
 
 /* Web presentation layer for the GitHub Pages site.
-   It reuses the print stylesheet and only adjusts what a screen needs:
-   fluid sizing, dark mode, a sticky action bar and tags rendered as chips. */
+   It reuses the print stylesheet (spacing, chips, colours) and only adjusts
+   what a screen needs: fluid sizing, dark mode and a sticky action bar. */
 
 :root {
   --page-bg: #eef1f5;
@@ -378,26 +438,18 @@ body {
 .page .bullets li::before { top: 9px; width: 5px; height: 5px; left: 2px; }
 
 .page .group { margin-bottom: 10px; flex-wrap: wrap; gap: 10px; }
-.page .group dt { flex-basis: 150px; }
+.page .group dt { flex-basis: 150px; padding-top: 4px; }
 .page .group dd { flex: 1; min-width: 220px; }
 
-/* Tags become chips on screen; the textual separators only exist for the PDF
-   and for anyone copying the text out, so hide them here. */
-.page .tag-sep { display: none; }
-
-.page .group dd .tag,
-.page .stack .tag {
-  display: inline-block;
-  background: var(--chip-bg);
+.page .tag {
+  font-size: 13px;
   border-radius: 6px;
   padding: 3px 9px;
   margin: 0 5px 5px 0;
-  font-size: 13px;
-  color: var(--text);
 }
 
 .page .stack { font-size: 13px; margin-top: 10px; color: var(--text-soft); }
-.page .stack-label { color: var(--text-soft); }
+.page .stack-label { color: var(--text-soft); margin-bottom: 5px; }
 
 @media (max-width: 640px) {
   .page { padding: 16px 12px 40px; }
