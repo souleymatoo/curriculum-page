@@ -4,25 +4,27 @@ Longueuil, QC (Canada) | +1 514 209-0509 | souleymato@gmail.com | github.com/sou
 
 PROFILE
 -------
-Telecom and computer engineer with 10+ years building Java/Spring systems end to end, from design to production. Designs secure APIs and microservices, CQRS and event-driven architectures for banking (Banque Nationale, Desjardins) and international projects (Atos, People Input). Comfortable wearing both the developer and the ops hat, on AWS and Azure alike.
+Lead Java/Spring developer with 10+ years building systems end to end, from design to production. Designs secure APIs and microservices, CQRS and event-driven architectures for banking (Banque Nationale, Desjardins) and international projects (Atos, People Input). Comfortable wearing both the developer and the ops hat on AWS and Azure, and weaving AI agents, prompting and orchestration into delivery practices.
 
 TECHNICAL SKILLS
 ----------------
 Languages: Java, SQL, Python
 Backend: Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
 Architecture: Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
+AI: Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 Cloud & containers: AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
 Data & messaging: Kafka, RabbitMQ, PostgreSQL
 Quality & security: JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
-Practices: Trunk-based development, CI/CD, GitHub Actions, Scrum, GitHub Copilot
+Practices: Trunk-based development, CI/CD, GitHub Actions, Scrum
 Front-end: Angular, EmberJS
 - Languages : Java, SQL, Python
 - Backend : Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
 - Architecture : Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
+- AI : Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 - Cloud & containers : AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
 - Data & messaging : Kafka, RabbitMQ, PostgreSQL
 - Quality & security : JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
-- Practices : Trunk-based development, CI/CD, GitHub Actions, Scrum, GitHub Copilot
+- Practices : Trunk-based development, CI/CD, GitHub Actions, Scrum
 - Front-end : Angular, EmberJS
 
 PROFESSIONAL EXPERIENCE
