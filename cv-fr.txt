@@ -4,7 +4,7 @@ Longueuil, QC (Canada) | +1 514 209-0509 | souleymato@gmail.com | github.com/sou
 
 PROFIL
 ------
-Lead développeur Java/Spring, plus de 10 ans d'expérience du cadrage à la mise en production. Conçoit des APIs sécurisées et des architectures microservices, CQRS et event-driven pour le secteur bancaire (Banque Nationale, Desjardins) et pour des projets internationaux (Atos, People Input). Profil polyvalent dev + ops, à l'aise sur AWS comme sur Azure, et qui intègre agents IA, prompting et orchestration dans les pratiques de livraison.
+Lead développeur Java/Spring, plus de 10 ans d'expérience de la conception à la mise en production. Conçoit des APIs sécurisées et des architectures microservices, CQRS et event-driven pour le secteur bancaire (Banque Nationale, Desjardins) et pour des projets internationaux (Atos, People Input). Profil polyvalent dev + ops, à l'aise sur AWS comme sur Azure, et qui intègre agents IA, prompting et orchestration dans les pratiques de livraison.
 
 COMPÉTENCES TECHNIQUES
 ----------------------
