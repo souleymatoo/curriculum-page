@@ -1,10 +1,10 @@
 Souleymane Harouna Mato
-Java / Spring Developer — Lead Dev
+Java / Spring Developer — Lead Dev · Agentic AI
 Longueuil, QC (Canada) | +1 514 209-0509 | souleymato@gmail.com | linkedin.com/souleymatoo | github.com/souleymatoo | souleymatoo.github.io/curriculum-page
 
 PROFILE
 -------
-Lead Java/Spring developer with 10+ years building systems end to end, from design to production. Designs secure APIs and microservices, CQRS and event-driven architectures for banking (Banque Nationale, Desjardins) and international projects (Atos, People Input). Comfortable wearing both the developer and the ops hat on AWS and Azure, and weaving AI agents, prompting and orchestration into delivery practices.
+Lead Java/Spring developer with 10+ years building systems end to end, from design to production. Designs secure APIs and microservices, CQRS and event-driven architectures for banking (Banque Nationale, Desjardins) and international projects (Atos, People Input). Comfortable wearing both the developer and the ops hat on AWS and Azure; currently helping build an agentic platform (agents, skills, orchestration).
 
 TECHNICAL SKILLS
 ----------------
@@ -32,12 +32,14 @@ PROFESSIONAL EXPERIENCE
 
 Java Developer & Lead Dev - Banque Nationale du Canada
 10/2021 – present | Montreal, QC
+Agentic platform — technical AI agent foundation (architecture, design, development, QA and infra).
 Cards API domain — end-to-end management of the debit and credit card lifecycle.
+- Designs and builds, within a multidisciplinary team, a shared agentic platform.
+- Delivers the agent, skills and orchestration building blocks that industrialise AI usage.
 - Develops and maintains the APIs driving the debit and credit card lifecycle, at the core of the bank's payment platform.
-- Secures the APIs and their deployment environments through Snyk vulnerability scanning and DevSecOps practices.
+- Secures the APIs and their deployment environments (Snyk, DevSecOps practices).
 - Drives the testing strategy and trunk-based development that shortened the delivery cycle.
-- Removes technical blockers upfront so the team can stay focused on shipping.
-Environment: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, Snyk, GitHub Actions, GitHub Copilot
+Environment: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, AI agents, Skills, Orchestration, Snyk, GitHub Actions, GitHub Copilot
 
 Java Developer - Desjardins
 12/2019 – 10/2021 | Quebec City, QC
@@ -59,13 +61,9 @@ Environment: Java, Spring (MVC, Batch, Security, Cloud), EmberJS, Angular, Rabbi
 
 Java Developer - People Input
 09/2015 – 05/2018 | Dakar, Senegal
-Sales platform digitalisation — LafargeHolcim Ivory Coast (09/2017 – 05/2018)
-Subscription management platform (12/2016 – 09/2017)
-Brokerage management system — Financial Capital (09/2015 – 08/2016)
-- Designed and built the web application aggregating several source systems so customers could order cement and track their stock.
-- Built the single entry point to the services of People Input and its partners, from subscription to billing.
-- Delivered the application managing stock market orders, UCITS and bonds used by brokers to follow client portfolios.
-- Covered all three projects with unit and integration tests, technical documentation and application support.
+- Digitalised LafargeHolcim Ivory Coast's sales system: a multi-source web app for orders and stock tracking.
+- Built the single subscription-management platform for People Input and its partners.
+- Delivered the brokerage app for stock orders, UCITS and bonds (Financial Capital); tests, documentation and support across all three projects.
 Environment: Java, Spring (MVC, Batch, Security, Cloud, Thymeleaf), Angular, RabbitMQ, PostgreSQL, Docker, Rancher, JUnit
 
 EDUCATION
@@ -79,7 +77,6 @@ CERTIFICATIONS
 - AWS Certified Developer – Associate · 2025
 - LPIC-2 — Linux Professional Institute · 2014
 - LPIC-1 — Linux Professional Institute · 2013
-- Certified Fiber Optic Technician (CFOT) — FOA · 2012
 
 LANGUAGES
 ---------

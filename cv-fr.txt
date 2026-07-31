@@ -1,10 +1,10 @@
 Souleymane Harouna Mato
-Développeur Java / Spring — Lead Dev
+Développeur Java / Spring — Lead Dev · IA agentique
 Longueuil, QC (Canada) | +1 514 209-0509 | souleymato@gmail.com | linkedin.com/souleymatoo | github.com/souleymatoo | souleymatoo.github.io/curriculum-page
 
 PROFIL
 ------
-Lead développeur Java/Spring, plus de 10 ans d'expérience de la conception à la mise en production. Conçoit des APIs sécurisées et des architectures microservices, CQRS et event-driven pour le secteur bancaire (Banque Nationale, Desjardins) et pour des projets internationaux (Atos, People Input). Profil polyvalent dev + ops, à l'aise sur AWS comme sur Azure, et qui intègre agents IA, prompting et orchestration dans les pratiques de livraison.
+Lead développeur Java/Spring, plus de 10 ans d'expérience de la conception à la mise en production. Conçoit des APIs sécurisées et des architectures microservices, CQRS et event-driven pour le secteur bancaire (Banque Nationale, Desjardins) et à l'international (Atos, People Input). Profil polyvalent dev + ops ; contribue aujourd'hui à une plateforme agentique (agents, skills, orchestration).
 
 COMPÉTENCES TECHNIQUES
 ----------------------
@@ -32,12 +32,14 @@ EXPÉRIENCE PROFESSIONNELLE
 
 Développeur Java & Lead Dev - Banque Nationale du Canada
 10/2021 – aujourd'hui | Montréal, QC
+Plateforme agentique — socle technique d'agents IA (architecture, conception, développement, QA et infra).
 Domaine API Cartes — gestion bout-en-bout du cycle de vie des cartes débit et crédit.
+- Conçoit et développe, au sein d'une équipe pluridisciplinaire, une plateforme agentique partagée.
+- Met en place les briques d'agents, de skills et d'orchestration qui industrialisent l'usage de l'IA.
 - Développe et maintient les APIs du cycle de vie des cartes débit et crédit, au cœur du système de paiement de la banque.
-- Sécurise les APIs et les environnements de déploiement (analyse de vulnérabilités Snyk, pratiques DevSecOps).
+- Sécurise les APIs et les environnements de déploiement (Snyk, pratiques DevSecOps).
 - Met en place la stratégie de tests et le trunk-based development pour raccourcir le cycle de livraison.
-- Lève les contraintes techniques de l'équipe en amont pour que les développeurs restent concentrés sur la livraison.
-Environnement: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, Snyk, GitHub Actions, GitHub Copilot
+Environnement: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, Agents IA, Skills, Orchestration, Snyk, GitHub Actions, GitHub Copilot
 
 Développeur Java - Desjardins
 12/2019 – 10/2021 | Québec, QC
@@ -59,13 +61,9 @@ Environnement: Java, Spring (MVC, Batch, Security, Cloud), EmberJS, Angular, Rab
 
 Développeur Java - People Input
 09/2015 – 05/2018 | Dakar, Sénégal
-Digitalisation du système de vente — LafargeHolcim Côte d'Ivoire (09/2017 – 05/2018)
-Plateforme de gestion d'abonnements (12/2016 – 09/2017)
-Gestion d'intermédiation boursière — Financial Capital (09/2015 – 08/2016)
-- Conçoit et développe l'application web qui agrège les données de plusieurs systèmes sources pour la commande de ciment et le suivi des stocks clients.
-- Développe le point d'entrée unique aux services de People Input et de ses partenaires, de la souscription à la facturation.
-- Développe l'application de gestion des ordres de bourse, des OPCVM et des obligations utilisée par les courtiers pour suivre les portefeuilles clients.
-- Couvre les trois projets par des tests unitaires et d'intégration, la documentation technique et le support applicatif.
+- Conçoit l'application web multi-sources de vente LafargeHolcim Côte d'Ivoire pour les commandes et le suivi des stocks.
+- Développe la plateforme unique de gestion d'abonnements pour People Input et ses partenaires.
+- Livre l'application de gestion d'ordres de bourse, OPCVM et obligations (Financial Capital) ; tests, documentation et support sur les trois projets.
 Environnement: Java, Spring (MVC, Batch, Security, Cloud, Thymeleaf), Angular, RabbitMQ, PostgreSQL, Docker, Rancher, JUnit
 
 FORMATION
@@ -79,7 +77,6 @@ CERTIFICATIONS
 - AWS Certified Developer – Associate · 2025
 - LPIC-2 — Linux Professional Institute · 2014
 - LPIC-1 — Linux Professional Institute · 2013
-- Certified Fiber Optic Technician (CFOT) — FOA · 2012
 
 LANGUES
 -------
