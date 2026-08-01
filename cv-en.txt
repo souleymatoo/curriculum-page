@@ -9,7 +9,7 @@ Lead Java/Spring developer with 10+ years building systems end to end, from desi
 TECHNICAL SKILLS
 ----------------
 Languages: Java, TypeScript, SQL, Python
-Backend: Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
+Backend: Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework, Flask, Django
 Architecture: Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
 AI: Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 Cloud & containers: AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
@@ -18,7 +18,7 @@ Quality & security: JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
 Practices: Trunk-based development, CI/CD, GitHub Actions, Scrum
 Front-end: Angular, EmberJS
 - Languages : Java, TypeScript, SQL, Python
-- Backend : Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
+- Backend : Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework, Flask, Django
 - Architecture : Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
 - AI : Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 - Cloud & containers : AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
@@ -64,7 +64,7 @@ Java Developer - People Input
 - Digitalised LafargeHolcim Ivory Coast's sales system: a multi-source web app for orders and stock tracking.
 - Built the single subscription-management platform for People Input and its partners.
 - Delivered the brokerage app for stock orders, UCITS and bonds (Financial Capital); tests, documentation and support across all three projects.
-Environment: Java, Spring (MVC, Batch, Security, Cloud, Thymeleaf), Angular, RabbitMQ, PostgreSQL, Docker, Rancher, JUnit
+Environment: Java, Spring (MVC, Batch, Security, Cloud, Thymeleaf), Python, Flask, Django, Angular, RabbitMQ, PostgreSQL, Docker, Rancher, JUnit
 
 EDUCATION
 ---------
