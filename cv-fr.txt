@@ -8,21 +8,21 @@ Lead développeur Java/Spring, plus de 10 ans d'expérience de la conception à 
 
 COMPÉTENCES TECHNIQUES
 ----------------------
-Langages: Java, SQL, Python
+Langages: Java, TypeScript, SQL, Python
 Backend: Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
 Architecture: Microservices, CQRS, Event-Driven Design, API REST, Thymeleaf
 IA: Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 Cloud & conteneurs: AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
-Données & messagerie: Kafka, RabbitMQ, PostgreSQL
+Données & messagerie: Kafka, RabbitMQ, PostgreSQL, DynamoDB, Redis
 Qualité & sécurité: JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
 Pratiques: Trunk-based development, CI/CD, GitHub Actions, Scrum
 Front-end: Angular, EmberJS
-- Langages : Java, SQL, Python
+- Langages : Java, TypeScript, SQL, Python
 - Backend : Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
 - Architecture : Microservices, CQRS, Event-Driven Design, API REST, Thymeleaf
 - IA : Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 - Cloud & conteneurs : AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
-- Données & messagerie : Kafka, RabbitMQ, PostgreSQL
+- Données & messagerie : Kafka, RabbitMQ, PostgreSQL, DynamoDB, Redis
 - Qualité & sécurité : JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
 - Pratiques : Trunk-based development, CI/CD, GitHub Actions, Scrum
 - Front-end : Angular, EmberJS
@@ -39,7 +39,7 @@ Domaine API Cartes — gestion bout-en-bout du cycle de vie des cartes débit et
 - Développe et maintient les APIs du cycle de vie des cartes débit et crédit, au cœur du système de paiement de la banque.
 - Sécurise les APIs et les environnements de déploiement (Snyk, pratiques DevSecOps).
 - Met en place la stratégie de tests et le trunk-based development pour raccourcir le cycle de livraison.
-Environnement: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, Agents IA, Skills, Orchestration, Snyk, GitHub Actions, GitHub Copilot
+Environnement: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, DynamoDB, Redis, Agents IA, Skills, Orchestration, Snyk, GitHub Actions, GitHub Copilot
 
 Développeur Java - Desjardins
 12/2019 – 10/2021 | Québec, QC

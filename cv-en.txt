@@ -8,21 +8,21 @@ Lead Java/Spring developer with 10+ years building systems end to end, from desi
 
 TECHNICAL SKILLS
 ----------------
-Languages: Java, SQL, Python
+Languages: Java, TypeScript, SQL, Python
 Backend: Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
 Architecture: Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
 AI: Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 Cloud & containers: AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
-Data & messaging: Kafka, RabbitMQ, PostgreSQL
+Data & messaging: Kafka, RabbitMQ, PostgreSQL, DynamoDB, Redis
 Quality & security: JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
 Practices: Trunk-based development, CI/CD, GitHub Actions, Scrum
 Front-end: Angular, EmberJS
-- Languages : Java, SQL, Python
+- Languages : Java, TypeScript, SQL, Python
 - Backend : Spring Boot, Spring Cloud, Spring Batch, Spring Security, Spring MVC, Genesis Framework
 - Architecture : Microservices, CQRS, Event-Driven Design, REST APIs, Thymeleaf
 - AI : Agents, Prompt engineering, Skills, Orchestration, GitHub Copilot
 - Cloud & containers : AWS, Microsoft Azure, Kubernetes, Docker, OpenShift, Rancher, Linux
-- Data & messaging : Kafka, RabbitMQ, PostgreSQL
+- Data & messaging : Kafka, RabbitMQ, PostgreSQL, DynamoDB, Redis
 - Quality & security : JUnit, TestNG, Cucumber, Snyk, DevSecOps, Keycloak
 - Practices : Trunk-based development, CI/CD, GitHub Actions, Scrum
 - Front-end : Angular, EmberJS
@@ -39,7 +39,7 @@ Cards API domain — end-to-end management of the debit and credit card lifecycl
 - Develops and maintains the APIs driving the debit and credit card lifecycle, at the core of the bank's payment platform.
 - Secures the APIs and their deployment environments (Snyk, DevSecOps practices).
 - Drives the testing strategy and trunk-based development that shortened the delivery cycle.
-Environment: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, AI agents, Skills, Orchestration, Snyk, GitHub Actions, GitHub Copilot
+Environment: Java, Spring, microservices, AWS, Kubernetes, Docker, Kafka, DynamoDB, Redis, AI agents, Skills, Orchestration, Snyk, GitHub Actions, GitHub Copilot
 
 Java Developer - Desjardins
 12/2019 – 10/2021 | Quebec City, QC
